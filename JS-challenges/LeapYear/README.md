@@ -14,3 +14,4 @@ Every year that is exactly divisible by four is a leap year, except for years th
 `Step-5` : The year is not a leap year (it has 365 days).
 
 ## Flowchart: 
+![Leap Year Flowchart](https://user-images.githubusercontent.com/80250498/224007178-5ea2b32d-14cd-4595-86ef-4dfec34b99f9.png)
